@@ -1,0 +1,75 @@
+{
+    "cols": [
+        {
+            "label": "País",
+            "type": "string"
+        },
+        {
+            "label": "Popularidade",
+            "type": "number"
+        }
+    ],
+    "rows": [
+        {
+            "c": [
+                {
+                    "v": "Germany"
+                },
+                {
+                    "v": 11
+                }
+            ]
+        },
+        {
+            "c": [
+                {
+                    "v": "United States"
+                },
+                {
+                    "v": 33
+                }
+            ]
+        },
+        {
+            "c": [
+                {
+                    "v": "Brazil"
+                },
+                {
+                    "v": 157
+                }
+            ]
+        },
+        {
+            "c": [
+                {
+                    "v": "Canada"
+                },
+                {
+                    "v": 15
+                }
+            ]
+        },
+        {
+            "c": [
+                {
+                    "v": "France"
+                },
+                {
+                    "v": 17
+                }
+            ]
+        },
+        {
+            "c": [
+                {
+                    "v": "Portugal"
+                },
+                {
+                    "v": 29
+                }
+            ]
+        }
+    ],
+    "p": null
+}
